@@ -1,0 +1,410 @@
+2021-02-06 18:13:29,262[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-06 18:13:29,842[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-06 18:13:29,842[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-06 18:13:29,842[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-06 18:13:29,842[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-06 18:13:29,842[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-06 18:13:29,842[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-06 18:13:34,843[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:13:40,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:13:45,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:13:50,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:13:51,961[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-06 18:13:55,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:00,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:05,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:10,476[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:16,114[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:21,114[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:26,114[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:31,113[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:36,113[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:41,114[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:46,730[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:51,731[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:14:56,731[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-06 18:15:01,730[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:30,344[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 12:34:30,673[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 12:34:30,673[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 12:34:30,673[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:34:30,673[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:34:30,673[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:34:30,673[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:34:35,674[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:40,674[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:45,674[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:50,674[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:53,218[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:34:57,469[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43792The link was established.
+2021-02-07 12:34:57,469[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 12:34:58,218[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:35:03,219[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:35:05,266[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 12:36:54,905[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 12:36:55,186[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 12:36:55,187[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 12:36:55,187[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:36:55,187[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:36:55,187[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:36:55,187[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:37:00,188[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:37:05,188[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:37:08,756[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43800The link was established.
+2021-02-07 12:37:08,756[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 12:37:10,188[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 12:37:14,360[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 12:59:53,914[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 12:59:54,185[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 12:59:54,185[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 12:59:54,185[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:59:54,185[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:59:54,185[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:59:54,185[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 12:59:59,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:04,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:09,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:14,185[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:16,628[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43864The link was established.
+2021-02-07 13:00:16,628[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:00:19,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:24,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:29,186[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:00:30,346[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:01:57,430[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:01:57,702[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:01:57,702[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:01:57,702[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:01:57,702[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:01:57,702[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:01:57,702[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:02:02,703[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:02:07,703[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:02:12,703[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:02:17,702[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:02:18,034[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43870The link was established.
+2021-02-07 13:02:18,034[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:02:22,689[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:04:14,988[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:04:15,260[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:04:15,260[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:04:15,260[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:04:15,260[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:04:15,260[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:04:15,261[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:04:20,201[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:04:24,463[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43874The link was established.
+2021-02-07 13:04:24,463[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:04:25,201[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:04:28,531[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:07:32,287[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:07:32,556[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:07:32,556[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:07:32,557[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:32,557[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:32,557[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:32,557[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:36,120[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43878The link was established.
+2021-02-07 13:07:36,120[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:07:37,558[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:07:41,485[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:07:49,276[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:07:49,547[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:07:49,548[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:07:49,548[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:49,548[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:49,548[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:49,548[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:07:52,072[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:07:52,146[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43880The link was established.
+2021-02-07 13:07:52,146[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:07:55,984[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:12:15,133[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:12:15,407[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:12:15,407[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:12:15,407[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:12:15,407[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:12:15,407[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:12:15,407[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:12:18,409[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43888The link was established.
+2021-02-07 13:12:18,409[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:12:20,406[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:12:24,497[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:16:50,643[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:16:50,916[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:16:50,916[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:16:50,916[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:16:50,916[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:16:50,916[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:16:50,916[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:16:53,330[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43892The link was established.
+2021-02-07 13:16:53,330[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:16:55,917[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:16:57,090[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:20:43,638[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:20:43,911[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:20:43,911[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:20:43,911[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:20:43,911[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:20:43,912[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:20:43,912[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:20:47,222[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43898The link was established.
+2021-02-07 13:20:47,222[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:20:48,912[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:20:51,364[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:24:43,835[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:24:44,108[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:24:44,108[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:24:44,108[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:24:44,108[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:24:44,108[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:24:44,108[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:24:47,731[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43906The link was established.
+2021-02-07 13:24:47,731[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:24:49,109[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:24:50,333[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:27:11,941[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:27:12,211[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:27:12,211[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:27:12,211[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:27:12,211[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:27:12,211[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:27:12,212[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:27:15,222[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43908The link was established.
+2021-02-07 13:27:15,222[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:27:17,216[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:27:17,886[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:31:05,817[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:31:06,088[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:31:06,088[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:31:06,088[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:31:06,088[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:31:06,089[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:31:06,089[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:31:11,090[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:31:18,521[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:31:18,235[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43912The link was established.
+2021-02-07 13:31:18,235[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:31:20,244[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:34:13,335[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:34:13,607[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:34:13,607[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:34:13,607[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:34:13,607[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:34:13,607[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:34:13,607[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:34:18,640[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:34:23,640[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:34:28,640[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:34:32,936[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43916The link was established.
+2021-02-07 13:34:32,937[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:34:33,639[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:34:34,978[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:39:03,104[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:39:03,376[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:39:03,376[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:39:03,376[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:39:03,376[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:39:03,376[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:39:03,376[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:39:05,785[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43924The link was established.
+2021-02-07 13:39:05,785[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:39:08,376[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:39:09,630[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:40:46,506[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:40:46,780[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:40:46,780[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:40:46,780[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:40:46,780[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:40:46,780[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:40:46,780[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:40:48,972[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43926The link was established.
+2021-02-07 13:40:48,972[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:40:51,750[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:49:49,364[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:49:49,637[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:49:49,637[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:49:49,637[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:49:49,637[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:49:49,637[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:49:49,637[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:49:51,568[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43944The link was established.
+2021-02-07 13:49:51,568[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:49:54,404[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:49:54,638[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:49:54,889[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:49:59,638[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:50:04,638[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:50:06,702[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:50:06,702[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:50:09,638[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 13:50:14,638[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:50:19,644[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:50:24,643[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:50:29,643[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:51:37,887[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:51:38,157[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:51:38,158[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:51:38,158[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:51:38,158[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:51:38,158[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:51:38,158[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:51:42,390[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43946The link was established.
+2021-02-07 13:51:42,390[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:51:43,159[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:51:46,757[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:51:47,115[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:51:48,159[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 13:51:52,450[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:51:52,451[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:51:53,159[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 13:51:58,158[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:03,158[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:03,772[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:52:03,774[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:52:08,159[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 13:52:13,158[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:18,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:23,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:28,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:33,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:38,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:43,175[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:48,175[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:53,175[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:52:58,175[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:53:03,175[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:53:08,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:53:13,174[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:53:18,143[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:53:23,143[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:06,234[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 13:59:06,504[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 13:59:06,504[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 13:59:06,504[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:59:06,504[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:59:06,504[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:59:06,504[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 13:59:11,504[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:16,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:21,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:26,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:31,500[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:36,500[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:41,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:41,908[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43960The link was established.
+2021-02-07 13:59:41,908[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:59:46,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:51,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 13:59:56,056[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 13:59:56,056[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 13:59:56,502[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 14:00:01,502[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:06,501[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:11,195[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:00:11,197[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:11,502[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 14:00:16,483[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:17,495[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:00:17,496[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:21,484[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 14:00:24,153[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:00:24,153[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:26,483[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:29,615[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:31,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:36,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:36,551[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:40,530[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:00:41,483[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:46,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:51,483[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:00:56,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:01,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:06,483[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:11,484[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:13,094[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:01:16,491[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:21,490[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:26,491[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:31,490[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:36,491[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:41,491[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:46,490[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:51,490[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:01:56,489[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:01,489[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:06,490[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:11,489[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:16,485[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:21,486[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:26,485[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:02:31,486[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:24,612[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 14:15:24,881[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 14:15:24,881[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 14:15:24,881[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:15:24,881[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:15:24,881[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:15:24,881[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:15:29,882[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:34,882[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:39,882[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:44,883[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:49,883[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:54,882[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:15:59,883[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:16:04,883[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:16:12,072[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 14:16:12,346[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 14:16:12,346[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 14:16:12,346[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:16:12,346[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:16:12,346[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:16:12,346[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:16:17,382[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:16:22,383[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:01,740[INFO][src/MainServer.cc:start:37]Server Started
+2021-02-07 14:20:02,010[INFO][src/MyDict.cc:init:17]Dict Initialize
+2021-02-07 14:20:02,011[INFO][src/CacheManager.cc:initCache:12]The main Cache was initialize.
+2021-02-07 14:20:02,011[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:20:02,011[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:20:02,011[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:20:02,011[WARN][./include/WorkerThread.h:WorkerThread:26]A new workerthread was created.
+2021-02-07 14:20:05,702[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43972The link was established.
+2021-02-07 14:20:05,702[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:20:07,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:10,727[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:20:10,727[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:20:12,012[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 14:20:14,658[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:20:14,658[WARN][src/TcpConnection.cc:send:59]Message sent through socket8
+2021-02-07 14:20:17,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:22,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:27,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:32,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:37,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:42,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:47,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:52,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:20:57,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:02,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:07,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:12,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:17,012[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:19,445[INFO][src/MainServer.cc:onConnection:16]192.168.221.168:9999->192.168.221.168:43974The link was established.
+2021-02-07 14:21:19,445[WARN][src/TcpConnection.cc:send:59]Message sent through socket9
+2021-02-07 14:21:22,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:22,902[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:21:22,902[WARN][src/TcpConnection.cc:send:59]Message sent through socket9
+2021-02-07 14:21:25,609[WARN][src/CacheManager.cc:getCache:26]A new Cache was mapped to a thread.
+2021-02-07 14:21:26,191[WARN][src/TcpConnection.cc:send:59]Message sent through socket9
+2021-02-07 14:21:27,012[WARN][src/CacheManager.cc:periodUpdate:94]1cache on disk updated.
+2021-02-07 14:21:32,010[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:36,503[INFO][src/MainServer.cc:onClose:31]192.168.221.168:9999->192.168.221.168:43972close
+2021-02-07 14:21:37,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:42,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:47,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:52,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:21:57,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
+2021-02-07 14:22:02,011[WARN][src/CacheManager.cc:periodUpdate:46]No cache to update in this period.
